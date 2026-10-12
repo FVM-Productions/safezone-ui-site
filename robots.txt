@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fvm-productions.github.io/safezone-ui-site/sitemap.xml

@@ -1,0 +1,21 @@
+# SafeZone UI
+
+> SafeZone UI is a free iOS and Android app that overlays a to-scale reconstruction of TikTok, Instagram Reels, YouTube Shorts, Snapchat Spotlight, Facebook Reels and Meta ad interfaces on your own vertical video, so you can see what will be covered before you post. No account; videos never leave the phone. Made by Freddyville Media Productions LLC. Not affiliated with any of these platforms.
+
+- App Store: https://apps.apple.com/app/id6814820004
+- Google Play: https://play.google.com/store/apps/details?id=com.freddyville.safezoneui
+
+## Safe zone dimensions (free PNG templates on each page)
+
+- [TikTok safe zone](https://fvm-productions.github.io/safezone-ui-site/tiktok-safe-zone.html): 870×1340 px safe area on 1080×1920, top 220 px, bottom 360 px, left 60 px, right 150 px.
+- [Instagram Reels safe zone](https://fvm-productions.github.io/safezone-ui-site/instagram-reels-safe-zone.html): 884×1360 px safe area on 1080×1920, top 180 px, bottom 380 px, left 56 px, right 140 px.
+- [YouTube Shorts safe zone](https://fvm-productions.github.io/safezone-ui-site/youtube-shorts-safe-zone.html): 864×1420 px safe area on 1080×1920, top 160 px, bottom 340 px, left 56 px, right 160 px.
+- [Snapchat Spotlight safe zone](https://fvm-productions.github.io/safezone-ui-site/snapchat-spotlight-safe-zone.html): 884×1320 px safe area on 1080×1920, top 200 px, bottom 400 px, left 56 px, right 140 px.
+- [Facebook Reels safe zone](https://fvm-productions.github.io/safezone-ui-site/facebook-reels-safe-zone.html): 874×1360 px safe area on 1080×1920, top 190 px, bottom 370 px, left 56 px, right 150 px.
+- [Meta 4:5 feed ads safe zone](https://fvm-productions.github.io/safezone-ui-site/meta-ads-4x5-safe-zone.html): 900×870 px safe area on 1080×1350, top 240 px, bottom 240 px, left 60 px, right 120 px.
+
+## Other
+
+- [All templates](https://fvm-productions.github.io/safezone-ui-site/safe-zones.html)
+- [Support and FAQ](https://fvm-productions.github.io/safezone-ui-site/)
+- [Privacy policy](https://fvm-productions.github.io/safezone-ui-site/privacy.html)

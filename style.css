@@ -45,3 +45,11 @@ td { color: var(--muted); }
 .table-scroll { overflow-x: auto; }
 footer { margin-top: 64px; padding-top: 24px; border-top: 1px solid var(--border); font-size: 14px; color: var(--muted); }
 footer p { margin: 4px 0; }
+.spec { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 15px; }
+.spec th, .spec td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--border); }
+.spec th { color: var(--text); font-weight: 600; }
+.spec td { color: var(--muted); }
+.template { margin: 20px 0; max-width: 260px; border: 1px solid var(--border); border-radius: 12px; overflow: hidden;
+  background: repeating-conic-gradient(#d9dce1 0 25%, #f3f4f6 0 50%) 0 0 / 20px 20px; }
+.template img { display: block; width: 100%; height: auto; }
+.button + .button { margin-left: 8px; }
